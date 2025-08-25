@@ -1,7 +1,7 @@
 # SDRTranscriber
 SDR audio transcriber in Python
 
-![Example](https://github.com/James-P-D/SDRTranscriber/blob/main/screenshot.jpg)
+![Example](https://github.com/James-P-D/SDRTranscriber/blob/main/screenshot.png)
 
 ## Introduction
 
